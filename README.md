@@ -1,29 +1,51 @@
-# Hi there, I'm BEPacheco 👋
+# 👋 ¡Hola, soy Bruno Pacheco!
 
-## 🚀 About Me
-I'm a passionate developer with a love for building innovative solutions and contributing to open-source projects. With a strong foundation in software development and a keen interest in the latest technologies, I'm always eager to learn and collaborate on exciting projects.
+## 💻 Técnico Informático | Desarrollador | Apasionado por la tecnología 🚀
 
-- 🌱 I’m currently learning **[New Technology/Framework]**
-- 👯 I’m looking to collaborate on **[Project/Type of Projects]**
-- 🤔 I’m looking for help with **[Specific Topic/Project]**
-- 💬 Ask me about **[Your Expertise/Interest]**
-- 📫 How to reach me: **[Your Email Address]**
-- 😄 Pronouns: **[Your Pronouns]**
-- ⚡ Fun fact: **[Something Interesting About You]**
-
-## 🛠️ Skills
-- **Languages:** [List of Programming Languages]
-- **Frameworks & Libraries:** [List of Frameworks and Libraries]
-- **Tools & Platforms:** [List of Tools and Platforms]
-
-## 📈 GitHub Stats
-![BEPacheco's GitHub stats](https://github-readme-stats.vercel.app/api?username=BEPacheco&show_icons=true&theme=radical)
-
-## 📫 Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/yourprofile)
-- [Twitter](https://twitter.com/yourprofile)
-- [Personal Website/Blog](https://yourwebsite.com)
+Soy un Técnico Informático y Programador autodidacta con experiencia en desarrollo de software. Me encanta asumir desafíos y aprender nuevas tecnologías para crear soluciones efectivas y atractivas. Futuro **Lic. en Informática**.
 
 ---
 
-Feel free to reach out if you want to collaborate on a project or just want to chat about technology!
+### 🛠 Tecnologías y habilidades
+
+**Lenguajes**  
+[![Lenguajes](https://skillicons.dev/icons?i=html,css,js,typescript,dart,python,java)](https://skillicons.dev)
+
+**Frameworks & Tools**  
+[![Frameworks & Tools](https://skillicons.dev/icons?i=astro,flutter,firebase,illustrator,photoshop,vscode,github,androidstudio,stackoverflow,npm,mongodb&perline=7)](https://skillicons.dev)
+
+**Infraestructura**  
+Redes, Windows Server, Cableado.
+
+**Otras habilidades**  
+Help Desk, Administración de servidores.
+
+---
+
+### 📊 Estadísticas de GitHub
+
+![Bruno's GitHub Stats](https://github-readme-stats.vercel.app/api?username=brunopacheco&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brunopacheco&layout=compact&theme=radical)
+
+---
+
+### 🚀 Proyectos Destacados
+
+🔸 [Mi Blog en Astro](https://github.com/brunopacheco/blog-astro)  
+🔸 [Aplicación en Flutter con Firebase](https://github.com/brunopacheco/flutter-firebase-app)  
+
+📌 *Más proyectos en mi perfil* 👉 [GitHub](https://github.com/brunopacheco)
+
+---
+
+### 📬 Contáctame
+
+📧 **Email:** brunoezequielpacheco@gmail.com  
+🌐 **LinkedIn:** [linkedin.com/in/brunopacheco](https://linkedin.com/in/brunopacheco)  
+- [X](https://x.com/bru_pache)
+- [Instagram](https://www.instagram.com/bru_pache/)
+- [Personal Website/Blog](https://brunoezequielpacheco.dev)
+
+---
+
+¡No dudes en contactarme si quieres colaborar en un proyecto o simplemente charlar sobre tecnología!
